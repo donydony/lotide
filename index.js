@@ -5,9 +5,9 @@ const findKey = require('./findKey');
 const flatten = require('./flatten');
 
 module.exports = {
-  head:   head,
-  tail:   tail,
-  middle: middle,
-  findKey: findKey,
-  flatten: flatten
+  head,
+  tail,
+  middle,
+  findKey,
+  flatten
 };
